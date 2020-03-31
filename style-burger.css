@@ -1,0 +1,41 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'Lato', sans-serif;
+}
+
+
+.burger-menu{
+  width: 180px;
+  border: solid #E78D5C33 0.5px;
+  box-shadow: 1px 1px 1px #E78D5C33;
+  border-radius: 7px;
+
+
+}
+
+li{
+  list-style-type:none;
+  margin: 30px 15px;
+}
+
+a{
+  color: #565A5C;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+button {
+  width: 120px;
+  height: 45px;
+  background-color: #E78D5C;
+  border: none;
+}
+
+button a{
+  color: white;
+}
